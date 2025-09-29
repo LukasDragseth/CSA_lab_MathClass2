@@ -61,6 +61,7 @@ public class MathPractice2 {
 
     // 10. Return the absolute difference between two integers.
     public static int q10(int a, int b) {
-        
+        // TODO: Implement
+        return 0;
     }
 }
